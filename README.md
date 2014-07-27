@@ -32,6 +32,6 @@ This tidy dataset is written to a tab ("\t") delimited file called tidy.txt in t
 
 Code Book
 -------------------
-The CodeBook.md file explains all the transformations and their resulting data and variables.
+The CodeBook.md file explains all the feature selection and transformations.
 
 
